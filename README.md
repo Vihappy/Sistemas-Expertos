@@ -1,6 +1,6 @@
 # Sistemas-Expertos
-Este repositorio muestra un "segundo cerebro" en donde se encuentra conocimiiento recopilado sobre el tema 
-"Teoría de control". informaci´pn relacionada con qué es, significados y enlaces que unen conseptos y conocimiento.
+Este repositorio muestra un "segundo cerebro" en donde se encuentra conocimiento recopilado sobre el tema 
+"Teoría de control". información relacionada con qué es, significados y enlaces que unen conceptos y conocimiento.
 
 <img width="803" height="798" alt="image" src="https://github.com/user-attachments/assets/e95c8af2-861c-42d5-ad6f-ef066993c9bc" />
 
